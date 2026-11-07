@@ -1,0 +1,17 @@
+{
+  "short_name": "Mopolee",
+  "name": "Mopolee Cinema & Exchange",
+  "icons": [
+    {
+      "src": "https://icons8.com",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0c0f12",
+  "theme_color": "#ffb703",
+  "display": "standalone",
+  "orientation": "portrait"
+}
+
